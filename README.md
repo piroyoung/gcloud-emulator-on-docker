@@ -1,1 +1,0 @@
-# gcloud-emulator-on-docker
